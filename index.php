@@ -71,10 +71,10 @@
 
              <div class="mb-5 element-animate">
               <h1>Cara Kerja : </h1>
-              <h2>Tim melakukan pengambilan data tweet yang memiliki </h2>
-              <h2>kata kunci Bohemian Rhapsody lalu melakukan pembuatan</h2>
-              <h2> model dengan dataset yang sudah dikumpulkan</h2>
-              <h2></h2>
+              <h3>Tim melakukan pengambilan data tweet yang memiliki </h3>
+              <h3>kata kunci Bohemian Rhapsody lalu melakukan pembuatan</h3>
+              <h3> model dengan dataset yang sudah dikumpulkan</h3>
+              <h3></h3>
             </div>
           </div>
         </div>
