@@ -70,11 +70,16 @@
 
              <div class="mb-5 element-animate">
               <h1>Cara Kerja : </h1>
+              </div>
               <h3>Tim melakukan pengambilan data tweet yang memiliki </h3>
               <h3>kata kunci Bohemian Rhapsody lalu melakukan pembuatan</h3>
-              <h3> model dengan dataset yang sudah dikumpulkan</h3>
-              <h3></h3>
-            </div>
+              <h3> model dengan dataset yang sudah dikumpulkan.</h3>
+              <h3>Hasil akurasi model : </h3>
+              <h3>Accuracy: 0.59</h3>
+              <h3>Precision: 0.58</h3>
+              <h3>Recall: 0.52</h3>
+              <h3>F1 Score: 0.55</h3>
+            
           </div>
         </div>
       </div>
