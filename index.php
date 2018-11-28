@@ -49,7 +49,7 @@
     </header>
     <!-- END header -->
 
-    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/freddie.jpg);">
+    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/mercury.jpg);">
       <div class="container">
         <div class="row align-items-left site-hero-inner justify-content-left">
           <div class="col-md-8 text-left">
