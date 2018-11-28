@@ -55,7 +55,7 @@
           <div class="col-md-8 text-left">
 
             <div class="mb-5 element-animate">
-              <h1>Analisa Sentimen Tweet dengan dataset Tweet Bohemian RHapsody</h1>
+              <h1>Analisa Sentimen Tweet Dengan Dataset Tweet Bohemian Rhapsody</h1>
             </div>
 
             <form id="input_artikel" class="mb-5 element-animate" action="{{url('submit_text.store')}}">
