@@ -50,7 +50,7 @@
           <div class="col-md-8 text-center">
 
             <div class="mb-5 element-animate">
-              <h1>Sentimen Analisis terhadap dataset tweets Bohemian Rhapsody</h1>
+              <h1>Analisa Sentimen Tweet dengan dataset Tweet Bohemian RHapsody</h1>
             </div>
 
             <form id="input_artikel" class="mb-5 element-animate" action="{{url('submit_text.store')}}">
@@ -67,6 +67,14 @@
             <div class="mb-5 element-animate">
               <h6 class="yasudah" >Hasil : </h6>
                 <label class="yasudah" for="testResult" id="predictResult"></label>
+            </div>
+
+             <div class="mb-5 element-animate">
+              <h1>Cara Kerja : </h1>
+              <h2>Tim melakukan pengambilan data tweet yang memiliki </h2>
+              <h2>kata kunci Bohemian Rhapsody lalu melakukan pembuatan</h2>
+              <h2> model dengan dataset yang sudah dikumpulkan</h2>
+              <h2></h2>
             </div>
           </div>
         </div>
