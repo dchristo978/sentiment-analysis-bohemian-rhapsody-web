@@ -46,8 +46,8 @@
 
     <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/freddie.jpg);">
       <div class="container">
-        <div class="row align-items-center site-hero-inner justify-content-center">
-          <div class="col-md-8 text-center">
+        <div class="row align-items-left site-hero-inner justify-content-left">
+          <div class="col-md-8 text-left">
 
             <div class="mb-5 element-animate">
               <h1>Analisa Sentimen Tweet dengan dataset Tweet Bohemian RHapsody</h1>
