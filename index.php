@@ -33,13 +33,13 @@
           <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
             <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
               <li class="nav-item">
-                Tugas Besar Kelompok - H
+                <h6> Tugas Besar Kelompok - H
                 Christophorus Anindityo Tri Nugroho (150708595)
                 I Putu Nata Udayana (150708222)
                 Dedy Warisanto. A (150708238)
                 Rahadhian Bagaskara (150708242)
                 Edwin Pangda (150708260)
-
+                </h6>
               </li>
             </ul>
             
@@ -78,11 +78,11 @@
               <h1>Cara Kerja : </h1>
               </div>
               <h3>Tim melakukan pengambilan data tweet yang memiliki kata kunci Bohemian Rhapsody lalu melakukan pembuatan model dengan dataset yang sudah dikumpulkan. </h3>
-              <h3>Hasil akurasi model : </h3>
-              <h3>Accuracy: 0.59</h3>
-              <h3>Precision: 0.58</h3>
-              <h3>Recall: 0.52</h3>
-              <h3>F1 Score: 0.55</h3>
+              <h3>Hasil akurasi model : </h5>
+              <h5>Accuracy: 0.59</h5>
+              <h5>Precision: 0.58</h5>
+              <h5>Recall: 0.52</h5>
+              <h5>F1 Score: 0.55</h5>
             
           </div>
         </div>
