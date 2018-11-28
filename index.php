@@ -77,8 +77,8 @@
              <div class="mb-5 element-animate">
               <h1>Cara Kerja : </h1>
               </div>
-              <h3>Tim melakukan pengambilan data tweet yang memiliki kata kunci Bohemian Rhapsody lalu melakukan pembuatan model dengan dataset yang sudah dikumpulkan. </h3>
-              <h3>Hasil akurasi model : </h5>
+              <h4>Tim melakukan pengambilan data tweet yang memiliki kata kunci Bohemian Rhapsody lalu melakukan pembuatan model dengan dataset yang sudah dikumpulkan. </h4>
+              <h4>Hasil akurasi model : </h4>
               <h5>Accuracy: 0.59</h5>
               <h5>Precision: 0.58</h5>
               <h5>Recall: 0.52</h5>
