@@ -33,7 +33,13 @@
           <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
             <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
               <li class="nav-item">
-                <a class="nav-link active" href="index.php">Tugas Besar Kelompok - H</a>
+                <a class="nav-link active" href="index.php">Tugas Besar Kelompok - H
+                Christophorus Anindityo Tri Nugroho (150708595)
+                I Putu Nata Udayana (150708222)
+                Dedy Warisanto. A (150708238)
+                Rahadhian Bagaskara (150708242)
+                Edwin Pangda (150708260)
+</a>
               </li>
             </ul>
             
